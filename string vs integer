@@ -1,0 +1,11 @@
+#1 string vs integer
+a=1
+b=str(3)
+print(str(a)+b)
+//answer is 13
+
+#2 integer vs string
+a=1
+b=str(3)
+print(a+int(b))
+//answer is 4
